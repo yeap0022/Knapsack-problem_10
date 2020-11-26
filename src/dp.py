@@ -5,7 +5,8 @@ Created on Mon Jun 29 22:20:04 2020
 @author: Yeap Yew Ming
 Reference: https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
 """
-file1 = open("./data/ks_4_0.txt") 
+# Upload file #
+file1 = open("./data/ks_4.txt") 
 input_data = file1.read()
 file1.close()
 
