@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jun 29 22:20:04 2020
 
 @author: Yeap Yew Ming
 Reference: https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
